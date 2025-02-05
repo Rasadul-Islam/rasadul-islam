@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" src="https://github.com/Rasadul-Islam/rasadul-islam/blob/main/image/rasadulislam.cse%40gmail.com.gif"  />
+  <img height="200" src="https://github.com/Rasadul-Islam/rasadul-islam/blob/main/image/rasadulislam.cse%40gmail.com.gif"  />
 </div>
 
 ###
@@ -14,14 +14,16 @@
 
 ###
 
-<h2 align="left">Current Stats</h2>
 <div align='center'>
-  <img alt="my-stats" align="center" height="180px" src ="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rasadul-islam&theme=radical"/>
-  <img alt="my-stats" align="center" height="180px" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=rasadul-islam&langs_count=5&theme=radical"/>
+  <img alt="my-stats" align="center" height="180px" src ="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rasadul-islam&theme=radical"/>  
+  <div>
+    <img alt="my-stats" align="center" height="180px" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=rasadul-islam&langs_count=5&theme=radical"/>
+    <img alt="my-contributions" align="center" height="180px" src ="https://github-readme-stats.vercel.app/api?username=rasadul-islam&show_icons=true&theme=radical"/>
+  </div>
 </div>
 
 ###
-
+<!-- skill -->
 <h2 align="left">Tools & Technologies that I know</h2>
 
 ###
@@ -79,4 +81,6 @@ Hi, I'm Rasadul Islam, a passionate MERN Stack Developer. With a strong focus on
   </a>
 </div>
 
-###
+### 🏃‍♂️ **Current Activities**
+- Exploring **Next.js** and building server-side rendered applications.
+- Working on a **Hostel Manger** to help user and manager there hostel, meal and utilites.
