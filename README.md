@@ -4,7 +4,9 @@
 
 ###
 
-<h1 align="left">Hi there! 👋 I'm  Rasadul Islam.</h1>
+<div>
+  <h1 align="left">Hi there! 👋 I'm  Rasadul Islam.<br>Web Developer</h1>
+</div>
 
 ###
 
@@ -13,29 +15,9 @@
 ###
 
 <h2 align="left">Current Stats</h2>
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-
-###
-
-<h2 align="left">Reach me out</h2>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/rasadul-islam-sg-gsf/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/rasadul.islam.sg.gsf/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="60" height="40" alt="facebook logo"  />
-  </a>
-  <a href="https://x.com/rasadul_sggsf" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="60" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://wa.me/8801745422695" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="60" height="40" alt="whatsapp logo"  />
-  </a>
+<div align='center'>
+  <img alt="my-stats" align="center" height="180px" src ="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rasadul-islam&theme=radical"/>
+  <img alt="my-stats" align="center" height="180px" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=rasadul-islam&langs_count=5&theme=radical"/>
 </div>
 
 ###
@@ -68,6 +50,33 @@
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+</div>
+
+###
+<h2 align="left" >About Me</h2>
+<h3>
+Hi, I'm Rasadul Islam, a passionate MERN Stack Developer. With a strong focus on building scalable, efficient, and user-friendly web applications, I thrive in environments where I can continuously learn and grow. I enjoy exploring new technologies and creating innovative solutions that meet the needs of users and businesses alike.
+</h3>
+
+###
+
+<h2 align="left">Reach me out</h2>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/rasadul-islam-sg-gsf/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/rasadul.islam.sg.gsf/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="60" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://x.com/rasadul_sggsf" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="60" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://wa.me/8801745422695" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="60" height="40" alt="whatsapp logo"  />
+  </a>
 </div>
 
 ###
